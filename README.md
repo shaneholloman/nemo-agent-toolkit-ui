@@ -89,7 +89,6 @@ The application uses a unified proxy architecture for improved security. All con
 - `NEXT_PUBLIC_NAT_INPUT_PLACEHOLDER` - Optional custom placeholder text for the chat input field
 - `NEXT_PUBLIC_NAT_WELCOME_MESSAGE_ON` - Enable welcome message (see [Welcome Message Customization](#welcome-message-customization))
 - `NEXT_PUBLIC_NAT_PROMPT_SUGGESTIONS_ON` - Enable prompt suggestions feature (see [Prompt Suggestions Customization](#prompt-suggestions-customization))
-- `NEXT_PUBLIC_NAT_DEFAULT_ENDPOINT` - Default endpoint selection
 
 **Feature Toggles:**
 - `NEXT_PUBLIC_NAT_WEB_SOCKET_DEFAULT_ON` - Enable WebSocket mode by default (true/false)
